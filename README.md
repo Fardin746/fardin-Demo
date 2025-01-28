@@ -1,4 +1,4 @@
 # fardin-Demo
 This is my first repo
-<be>
-author -> Fardin
+<br>
+author -> Fardin (learning)
